@@ -1,5 +1,10 @@
 const projects = [
   {
+    title: 'React Search Engine',
+    url: 'https://unsplash-react-search-engine.netlify.app/',
+    image: './assets/unsplash.png',
+  },
+  {
     title: 'birthday buddy',
     url: 'https://react-vite-projects-1-birthday-buddy.netlify.app/',
     image: './assets/birthday.png',
